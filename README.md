@@ -93,5 +93,5 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
-Authors
+
 Author: Md Kaif Ansari[LIT2021022], Shrish Kumar[LIT2021027]
