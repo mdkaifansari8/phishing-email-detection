@@ -1,4 +1,5 @@
 Email Phishing Detection Application
+
 Overview
 This application is a Flask-based web service designed to detect phishing emails. It uses Natural Language Processing (NLP) techniques for email text preprocessing and machine learning to classify emails as either "Safe" or "Phishing." The app fetches emails from an inbox using IMAP and processes them to predict their type.
 
