@@ -1,0 +1,7 @@
+flask
+joblib
+nltk
+pandas
+scikit-learn
+beautifulsoup4
+imapclient
